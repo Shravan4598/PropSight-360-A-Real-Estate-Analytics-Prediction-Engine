@@ -125,9 +125,3 @@ with col4:
 # =========================
 st.sidebar.title("💎 Navigation")
 st.sidebar.info("Select a page above to launch a specific module.")
-
-st.sidebar.markdown("---")
-st.sidebar.markdown("### 📊 Platform Stats")
-st.sidebar.write("✅ 100+ Sectors Covered")
-st.sidebar.write("✅ 3.5k+ Properties Tracked")
-st.sidebar.write("✅ Live AI Valuation")
