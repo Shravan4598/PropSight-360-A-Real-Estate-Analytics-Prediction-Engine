@@ -6,6 +6,7 @@ scikit-learn
 matplotlib
 seaborn
 wordcloud
+category_encoders
 scipy
 shapely
 geopandas
